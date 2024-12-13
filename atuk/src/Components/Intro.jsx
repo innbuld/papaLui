@@ -25,7 +25,7 @@ export default function Intro() {
            
             </div>
             <div className="btn-wrap text-center my-10 ">
-            <a href ="https://www.dexscreener.com/solana/" className='p-4 px-7 border border-black font-jumb text-[black]'>Bet $PLUG AI Now</a>
+            <a href ="https://t.me/PapaLuigiAi_Bot" className='p-4 px-7 border border-black font-jumb text-[black]'>Bet $PLUG AI Now</a>
            
             </div>
            
