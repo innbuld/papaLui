@@ -31,9 +31,9 @@ export default function Intro() {
            
             <div className="wrap py-5 my-5">
                 <div className="flex flex-wrap gap-5 justify-center">
-                    <img src="/pop.jpg" alt="$PLUG" className='w-[400px]' />
-                    <img src="/papa.jpg" alt="$PLUG" className='w-[400px]' />
-                    <img src="/big.jpg" alt="$PLUG" className='w-[400px]' />
+                    <img src="/pop.jpeg" alt="$PLUG" className='w-[400px]' />
+                    <img src="/papa.jpeg" alt="$PLUG" className='w-[400px]' />
+                    <img src="/big.jpeg" alt="$PLUG" className='w-[400px]' />
                 </div>
             </div>
         </div>
