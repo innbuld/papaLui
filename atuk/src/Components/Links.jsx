@@ -13,7 +13,7 @@ export default function Links() {
                     <a href="https://x.com/">X</a>
                     
                     <a href="https://www.dexscreener.com/solana/">DexScreener</a>
-                    <a href ="https://www.dextools.io/app/en/ether/pair-explorer/" className='p-4 px-7 border border-black font-jumb text-black'>DexTools</a>
+                    <a href ="https://www.dextools.io/app/en/solana/pair-explorer/" className='p-4 px-7 border border-black font-jumb text-black'>DexTools</a>
                     
 
                 </div>

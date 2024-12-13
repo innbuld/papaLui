@@ -4,7 +4,7 @@ export default function Intro() {
     return (
         <div className="wrap py-16">
             <div className="img-wrap">
-                <img src="/pop.jpg" className='w-[100px] mx-auto' alt="Atsuko" />
+                <img src="/pop.jpg" className='w-[100px] mx-auto' alt="PLUG-AI" />
             </div>
 
             <div className="socials flex gap-5 justify-center items-center font-light uppercase text-lg mt-5">
