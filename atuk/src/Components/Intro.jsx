@@ -34,7 +34,6 @@ export default function Intro() {
                 <div className="flex flex-wrap gap-5 justify-center">
                     <img src="/pop.jpg" alt="$PLUG" className='w-[400px]' />
                     <img src="/papa.jpg" alt="$PLUG" className='w-[400px]' />
-                   
                     <img src="/big.jpg" alt="$PLUG" className='w-[400px]' />
                 </div>
             </div>
