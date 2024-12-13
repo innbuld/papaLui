@@ -29,7 +29,6 @@ export default function Intro() {
            
             </div>
            
-
             <div className="wrap py-5 my-5">
                 <div className="flex flex-wrap gap-5 justify-center">
                     <img src="/pop.jpg" alt="$PLUG" className='w-[400px]' />
