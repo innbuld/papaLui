@@ -1,0 +1,23 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+	font-family: "peace";
+	src: url("/public/fonts/battle.otf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+  font-family: "jumb";
+  src: url("/public/fonts/JUNEBUG.TTF") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-jumb {
+  font-family: 'jumb';
+}
+.font-peace, body {
+  font-family: 'peace';
+}
